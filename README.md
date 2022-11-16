@@ -1,2 +1,2 @@
-# SQL
-Base de datos relacional sobre conciertos utilizando PostgreSQL
+# BASES DE DATOS
+SQL (PostgreSQL) y NoSQL (Neo4j)
