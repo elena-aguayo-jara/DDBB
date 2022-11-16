@@ -1,0 +1,19 @@
+id,nombre,curso,semestre,creditos
+1,Genetica,1_Bachillerato,1_Semestre,6
+2,Zoologia,1_Bachillerato,1_Semestre,6
+3,Estadistica,1_Bachillerato,1_Semestre,3
+4,Programacion,1_Bachillerato,2_Semestre,6
+5,Bases_de_datos,1_Bachillerato,2_Semestre,3
+6,Quimica,1_Bachillerato,2_Semestre,6
+7,Fisica,2_Bachillerato,1_Semestre,6
+8,Literatura,2_Bachillerato,1_Semestre,6
+9,Filosofia,2_Bachillerato,1_Semestre,3
+10,Fisiologia,2_Bachillerato,2_Semestre,6
+11,Etica,2_Bachillerato,2_Semestre,3
+12,Embriologia,2_Bachillerato,2_Semestre,3
+13,Citologia,4_ESO,1_Semestre,3
+14,Etologia,4_ESO,1_Semestre,6
+15,Termodinamica,4_ESO,1_Semestre,6
+16,Ingles,4_ESO,2_Semestre,6
+17,Latin,4_ESO,2_Semestre,3
+18,Griego, 4_ESO,2_Semestre,3
