@@ -1,2 +1,2 @@
 # ddbb_concert
-Base de datos relacional de una sala de conciertos
+Base de datos relacional sobre conciertos utilizando PostgreSQL
